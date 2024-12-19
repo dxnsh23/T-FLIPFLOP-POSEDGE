@@ -1,4 +1,7 @@
-# T-FLIPFLOP-POSEDGE
+# EXP9:T -FLIP-FLOP
+## NAME: DINESH RAGHAVENDARA S
+## REG NO: 24900081
+
 
 **AIM:**
 
@@ -32,11 +35,12 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![T FF CODE](https://github.com/user-attachments/assets/9957e9f8-3fbf-41e4-bf22-70da149c31f3)
 
 **RTL LOGIC FOR FLIPFLOPS**
+![T FF DIAGRAM](https://github.com/user-attachments/assets/dea0b035-ddd2-4058-84f5-bfb1d478c7be)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![T FF WAVEFORM](https://github.com/user-attachments/assets/f6cf8dcb-b9e7-4500-b701-592b519df4b5)
 
 **RESULTS**
