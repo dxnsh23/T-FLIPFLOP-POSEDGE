@@ -44,3 +44,4 @@ From the above characteristic table, we can directly write the next state equati
 ![T FF WAVEFORM](https://github.com/user-attachments/assets/f6cf8dcb-b9e7-4500-b701-592b519df4b5)
 
 **RESULTS**
+ Thus To implement  T flipflop using verilog and validating their functionality using their functional tables
